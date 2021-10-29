@@ -8,6 +8,16 @@ body {
     background-color: hsl(225, 100%, 94%);
 }
 
+.container-main {
+    width: 83%;
+    justify-content: center;
+    margin: 250px auto;
+}
+
+.heroku {
+    
+}
+
 .attribution
  { font-size: 11px; text-align: center; }
  
